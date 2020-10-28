@@ -10,38 +10,47 @@
 - 📫 Ping me at 13havinkamani@gmail.com
 - Engineer by profession programmer by instinct, I was born with it or maybe it's just caffeine.
 
+### My Pojects:
+[![InBrief_GitHub_](https://user-images.githubusercontent.com/46283833/97402396-7f43ee80-1918-11eb-9fdd-f37f243f2acb.png)](https://www.inbrief.dev) 
+<img align="right" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97410806-88878800-1925-11eb-8726-855c11728a72.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97412416-8d4d3b80-1927-11eb-94e3-110f7ce0ffbd.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97412675-e1582000-1927-11eb-9145-5be78d814826.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
 
-[![InBrief_GitHub_](https://user-images.githubusercontent.com/46283833/97402396-7f43ee80-1918-11eb-9fdd-f37f243f2acb.png)](https://www.inbrief.dev)
+
+[![bookmytool](https://user-images.githubusercontent.com/46283833/97413254-925eba80-1928-11eb-9bd6-b5da895ba129.png)](https://play.google.com/store/apps/details?id=com.schimmel.bookmytool&hl=en)
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
+
+
+[![ML Labs](https://user-images.githubusercontent.com/46283833/97414290-cf777c80-1929-11eb-92db-ea665be8ddfb.png)](https://github.com/KamaniBhavin/ML-Labs/blob/master/Screencasts/ezgif.com-video-to-gif.gif)
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414533-1b2a2600-192a-11eb-8378-c2f52a8c6f79.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414680-4ca2f180-192a-11eb-8108-16fd6d573e6c.png" />
+<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
+
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.bhavinkamani.me/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bhavin-kamani/)
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414533-1b2a2600-192a-11eb-8378-c2f52a8c6f79.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414680-4ca2f180-192a-11eb-8108-16fd6d573e6c.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
+<img align="left" alt="Languages" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97410806-88878800-1925-11eb-8726-855c11728a72.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97412416-8d4d3b80-1927-11eb-94e3-110f7ce0ffbd.png" />
+<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97412675-e1582000-1927-11eb-9145-5be78d814826.png" />
 
-<br />
-<br />
 
 ### 📕 Latest Blog Posts
 
@@ -55,11 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -71,5 +76,5 @@
 
 </details>
 
-[website]: https://www.bhavinkamani.me/
+[website]: "https://www.bhavinkamani.me/"
 [linkedin]: https://www.linkedin.com/in/bhavin-kamani/
