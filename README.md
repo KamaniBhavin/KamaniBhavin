@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Competitive Programmer!!
 
-- 🔭 I’m currently working on InBrief Multiuser blogging platform
+- 🔭 I’m currently working on InBrief Multi-user blogging platform
 - 🌱 I’m currently learning Backend Development.
 - ✅ I just launched my first website for blogging.
 - 👯 I’m looking for technical content writers.
