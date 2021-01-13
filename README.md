@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Competitive Programmer!!
 
 - 🔭 I’m currently working on InBrief Multi-user blogging platform
-- 🌱 I’m currently learning how to design large scale distributed systems.
+- 🌱 I’m currently learning how to design large scale distributed systems using Microservices using Go Lang.
 - ✅ I just launched my first website for blogging.
 - 👯 I’m looking for technical content writers.
 - 🥅 2021 Goals: Focus more on building problem solving ability & Spend time building more Web/Mobile Apps.
