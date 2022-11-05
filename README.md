@@ -1,81 +1,45 @@
-### Hi there, I'm Bhavin 👋
+<h1 align="center">Hi 👋, I'm Bhavin</h1>
+<h3 align="center">A passionate full-stack developer from India |🇮🇳.</h3>
 
-## I'm a Student, Developer and Competitive Programmer!!
-
-- 🔭 I’m currently working on InBrief Multi-user blogging platform
-- 🌱 I’m currently learning how to design large scale distributed systems using Microservices and Go Lang.
-- ✅ I just launched my first website for blogging.
-- 👯 I’m looking for technical content writers.
-- 🥅 2021 Goals: Focus more on building problem solving ability & Spend time building more Web/Mobile Apps.
-- 📫 Ping me at 13havinkamani@gmail.com
-- Engineer by profession programmer by instinct, I was born with it or maybe it's just caffeine.
-
-### My Pojects:
-[![InBrief_GitHub_](https://user-images.githubusercontent.com/46283833/97402396-7f43ee80-1918-11eb-9fdd-f37f243f2acb.png)](https://www.inbrief.dev) 
-<img align="right" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97410806-88878800-1925-11eb-8726-855c11728a72.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97412416-8d4d3b80-1927-11eb-94e3-110f7ce0ffbd.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97412675-e1582000-1927-11eb-9145-5be78d814826.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
+<div style="display: flex">
+<img src="https://github-readme-stats.vercel.app/api?username=kamanibhavin&show_icons=true&locale=en" alt="kamanibhavin" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamanibhavin&" alt="kamanibhavin" />
+</div>
 
 
-[![bookmytool](https://user-images.githubusercontent.com/46283833/97413254-925eba80-1928-11eb-9bd6-b5da895ba129.png)](https://play.google.com/store/apps/details?id=com.schimmel.bookmytool&hl=en)
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p > 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamanibhavin&show_icons=true&locale=en&layout=compact" alt="kamanibhavin" width="420px"/>
 
 
-[![ML Labs](https://user-images.githubusercontent.com/46283833/97414290-cf777c80-1929-11eb-92db-ea665be8ddfb.png)](https://github.com/KamaniBhavin/ML-Labs/blob/master/Screencasts/ezgif.com-video-to-gif.gif)
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414533-1b2a2600-192a-11eb-8378-c2f52a8c6f79.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414680-4ca2f180-192a-11eb-8108-16fd6d573e6c.png" />
-<img align="right" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
 
+<h3 align="left">Current work:</h3>
 
-### Connect with me:
+- 🔭 I’m currently working on **A chrome extension that tracks prices on Amazon.**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.bhavinkamani.me/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bhavin-kamani/)
+- 🌱 I’m currently learning **Web scrapping with chrome extensions.**
 
-<br />
+- 📫 How to reach me **13havinkamani@gmail.com**
 
-### Languages and Tools:
+<p align="center">
+<a href="https://twitter.com/bhavinkamani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavinkamani_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavin-kamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavin-kamani" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bhavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhavin" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97413911-56782500-1929-11eb-886f-36dd5df665cd.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414000-7576b700-1929-11eb-94dd-bdaa1a83e9c6.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414533-1b2a2600-192a-11eb-8378-c2f52a8c6f79.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414680-4ca2f180-192a-11eb-8108-16fd6d573e6c.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97414975-a73c4d80-192a-11eb-9de1-a772a702ed7b.png" />
-<img align="left" alt="Languages" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97410806-88878800-1925-11eb-8726-855c11728a72.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97412416-8d4d3b80-1927-11eb-94e3-110f7ce0ffbd.png" />
-<img align="left" alt="Languages" width="26px" src="https://user-images.githubusercontent.com/46283833/97412675-e1582000-1927-11eb-9145-5be78d814826.png" />
-
-<br/>
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon](https://www.inbrief.dev)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://inbrief.dev)
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <!---<img align="left" alt="Bhavin Kamani's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: "https://www.bhavinkamani.me/"
-[linkedin]: https://www.linkedin.com/in/bhavin-kamani/
