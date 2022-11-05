@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack developer from India |🇮🇳.</h3>
 
 <div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api?username=kamanibhavin&show_icons=true&locale=en" alt="kamanibhavin" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamanibhavin&" alt="kamanibhavin" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamanibhavin&show_icons=true&locale=en" alt="kamanibhavin" width="360px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamanibhavin&" alt="kamanibhavin" width="360px"/>
 </div>
 
 
