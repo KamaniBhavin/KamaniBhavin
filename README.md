@@ -5,6 +5,7 @@
 -->
 
 # Bhavin Kamani
+<sub>Engineer by profession, developer by instinct. I was born with it — or maybe it's just caffeine.</sub>
 
 **Senior full-stack engineer.** I build software around operational decisions — systems that ingest context, apply explicit rules, call bounded tools, and produce an auditable result.
 
@@ -56,8 +57,6 @@ Leading platform engineering, and open to consulting on long-term product and pl
 - Site — **[bhavinkamani.com](https://bhavinkamani.com)**
 - Email — **[13havinkamani@gmail.com](mailto:13havinkamani@gmail.com)**
 - LinkedIn — **[linkedin.com/in/bhavin-kamani](https://www.linkedin.com/in/bhavin-kamani/)**
-
-<sub>Engineer by profession, developer by instinct. I was born with it — or maybe it's just caffeine.</sub>
 
 ---
 
